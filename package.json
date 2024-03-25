@@ -1,7 +1,7 @@
 {
-  "name": "jiuyou",
-  "displayName": "JiuYou",
-  "description": "Leave blank",
+  "name": "music-player",
+  "displayName": "MusicPlayer",
+  "description": "Music Player, play by video or audio URL",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
