@@ -9,4 +9,5 @@ tsconfig.lsif.json
 *.db
 .history
 .nvim
+*.vsix
 
