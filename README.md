@@ -1,4 +1,4 @@
-# Music Player README
+# Music Player
 
 Music Player is VS Code plugin for playing music by audio or video URL.
 
@@ -25,6 +25,9 @@ Music Player is VS Code plugin for playing music by audio or video URL.
 
 ## Screenshots
 
+## License
+
+[MIT](LICENSE)
 
 
 **Enjoy!**

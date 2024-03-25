@@ -4,6 +4,7 @@
   "description": "Music Player, play by video or audio URL",
   "version": "0.0.1",
   "publisher": "magicalcosmos",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.87.0"
   },
